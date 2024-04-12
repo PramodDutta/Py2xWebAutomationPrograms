@@ -1,4 +1,4 @@
-### Python Web Automation Programs
+## Python Web Automation Programs
 
 #### Dep
 
@@ -8,7 +8,7 @@ Certainly! Here's the updated Markdown documentation with the addition of allure
 
 ---
 
-# Selenium with Pytest and Framework Documentation
+## Selenium with Pytest and Framework Documentation
 
 ## Introduction
 
@@ -131,10 +131,3 @@ allure serve reports/
 - **New Selenium 4.x+**: Features and improvements introduced in Selenium 4 and later versions.
 - **Cloud Testing - BrowserStack Demo**: Demonstration of cloud testing using BrowserStack.
 
-## Conclusion
-
-This documentation provides a comprehensive guide to utilizing Selenium with Pytest along with a framework structure for efficient web testing in Python. Following the outlined practices and principles will help in creating robust and maintainable automated tests for web applications.
-
----
-
-Feel free to customize and expand upon this template to fit the specifics of your project and requirements! Let me know if you need further assistance.
